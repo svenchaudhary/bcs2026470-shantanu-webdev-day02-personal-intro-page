@@ -7,7 +7,7 @@ The project introduces my background, education, technical skills, projects, goa
 
 ## 📸 Project Preview
 
-![Personal Portfolio Website](<img width="935" height="436" alt="image" src="https://github.com/user-attachments/assets/66923dc2-fdcb-4d87-aa82-1fd865a3f834" />)
+<img width="935" height="436" alt="image" src="https://github.com/user-attachments/assets/66923dc2-fdcb-4d87-aa82-1fd865a3f834" />
 
 ## 🎯 Learning Objectives
 
